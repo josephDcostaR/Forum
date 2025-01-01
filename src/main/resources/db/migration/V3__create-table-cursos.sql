@@ -3,3 +3,4 @@ CREATE TABLE cursos (
     nome VARCHAR(255) NOT NULL,
     categoria VARCHAR(255) NOT NULL
 );
+
